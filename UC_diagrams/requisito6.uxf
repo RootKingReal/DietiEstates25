@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="15.1">
+  <zoom_level>10</zoom_level>
+  <element>
+    <id>UMLActor</id>
+    <coordinates>
+      <x>70</x>
+      <y>60</y>
+      <w>60</w>
+      <h>110</h>
+    </coordinates>
+    <panel_attributes>Cliente</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLActor</id>
+    <coordinates>
+      <x>20</x>
+      <y>310</y>
+      <w>160</w>
+      <h>110</h>
+    </coordinates>
+    <panel_attributes>Agente immobiliare </panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>280</x>
+      <y>240</y>
+      <w>210</w>
+      <h>100</h>
+    </coordinates>
+    <panel_attributes>Riceve notifiche per 
+la prenotazione
+della visita di
+un immobile</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>290</x>
+      <y>350</y>
+      <w>190</w>
+      <h>110</h>
+    </coordinates>
+    <panel_attributes>Può rifiutare o 
+confermare una visita</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>140</x>
+      <y>290</y>
+      <w>160</w>
+      <h>60</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>10.0;40.0;140.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>140</x>
+      <y>330</y>
+      <w>160</w>
+      <h>90</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>10.0;10.0;140.0;70.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>120</x>
+      <y>80</y>
+      <w>170</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>10.0;20.0;150.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>280</x>
+      <y>60</y>
+      <w>160</w>
+      <h>80</h>
+    </coordinates>
+    <panel_attributes>Puo' prenotare la
+visita di un 
+immobile</panel_attributes>
+    <additional_attributes/>
+  </element>
+</diagram>
